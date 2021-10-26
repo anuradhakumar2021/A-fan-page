@@ -12,3 +12,9 @@ For this activity you are tasked to build a fan page for your favorite music art
   - Include a brief biography. 
   - Include how you discovered them and why you like them.
   - Your page should read like a story, a beginning, middle, and end. (header, main, footer).
+
+## Step 2 Requirements: (Build a table)
+  - Build a table to show upcoming concerts (if there are none, then make up some dates and locations).
+  - Each concert should have the following information: Date, Time, Location, Link to buy tickets. (4 columns).
+  - The table should have a header and a body ( you can create an optional footer if you would like)
+  - Display at least 3 concerts 
